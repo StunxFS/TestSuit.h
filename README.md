@@ -12,6 +12,11 @@ TSTest("Testing TestSuit.h", {
 	TSCheck(a == 100);
 });
 
+TSTest("Testing TestSuit.h 2", {
+	int a = 100 > 150;
+	TSCheck(a == 0);
+});
+
 TSEndTestSuit // End testing
 
 ```
