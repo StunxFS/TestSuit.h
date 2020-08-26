@@ -1,6 +1,9 @@
 # TestSuit.h
 Testing suite for C/C++
 
+TestSuit.h is a testing suite for C and C ++.
+The library works on both without any modification :smile:
+
 ## Example of use:
 ```c
 #include "TestSuit.h"
