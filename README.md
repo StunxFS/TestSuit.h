@@ -1,5 +1,5 @@
 # TestSuit.h
-Testing suit for C/C++
+Testing suite for C/C++
 
 ## Example of use:
 ```c
